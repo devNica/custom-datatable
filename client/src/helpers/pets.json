@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Fufito",
+        "category": "cat",
+        "country": "Nicaragua",
+        "age": "24 M"
+    },
+    {
+        "id": 2,
+        "name": "Paflito",
+        "category": "dog",
+        "country": "Honduras",
+        "age": "6 M"
+    },
+    {
+        "id": 3,
+        "name": "Dinki",
+        "category": "dog",
+        "country": "Nicaragua",
+        "age": "18 M"
+    },
+    {
+        "id": 4,
+        "name": "Catty",
+        "category": "cat",
+        "country": "Costarica",
+        "age": "2 M"
+    },
+    {
+        "id": 5,
+        "name": "Lassie",
+        "category": "dog",
+        "country": "Panama",
+        "age": "50 M"
+    }
+]

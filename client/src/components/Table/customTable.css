@@ -1,0 +1,49 @@
+table.customTable {
+    border: 8px solid #2b1d46;
+    background-color: #2b1d46;
+    width: 800px;
+    text-align: center;
+    border-collapse: collapse;
+    margin: 2rem;
+  }
+  table.customTable td, table.customTable th {
+    border: 5px solid #2b1d46;
+    padding: 2px 4px;
+  }
+  table.customTable tbody td {
+    font-size: 1rem;
+    color: #FFFFFF;
+  }
+  table.customTable tr:nth-child(even) {
+    background: #47325c;
+  }
+  table.customTable thead {
+    background: #1d0129;
+    border-bottom: 0px solid #16171b;
+  }
+  table.customTable thead th {
+    font-size: 0.85rem;
+    color: #eebb14;
+    text-align: center;
+    border-left: 1px solid #16171b;
+    font-style: italic;
+    font-weight: 600;
+  }
+  table.customTable thead th:first-child {
+    border-left: none;
+    height: 30px !important;
+  }
+
+  .sort{
+      margin-left: 0.6rem;
+      vertical-align: middle;
+      color: #383429;
+  }
+
+  .sort :hover{
+      cursor: pointer;
+      color: #eebb14;
+  }
+
+
+  
